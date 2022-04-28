@@ -1,1 +1,1 @@
-# Student Mangament in MYSQL
+# Student Mangament System
